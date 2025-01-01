@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Sufardi Madoa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Ulil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=AssalamuAlaikum+Warahmatullah..&hearts;++;merupakan-seorang+Front-End+Developer,;Computer+Science+Student,;Developer+Newbie,;Aktif+Belajar/Research,;Love+to+learn+new+stuffs..<3"></a>
@@ -65,9 +65,9 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 ### Sufardi Madoa Statistic Activity
 
 
-![Sufardi Streak](https://github-readme-streak-stats.herokuapp.com/?user=SufardiMadoa&theme=algolia&hide_border=true)
+![AmryLil Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=algolia&hide_border=true)
 
-![Sufardi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SufardiMadoa&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+![AmryLil Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmryLil&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
 </div>
