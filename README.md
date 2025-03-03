@@ -62,7 +62,7 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 
 <div align='center'>
 
-### Sufardi Madoa Statistic Activity
+### Ulil Amry Statistic Activity
 
 
 ![AmryLil Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=algolia&hide_border=true)
