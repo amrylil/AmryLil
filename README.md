@@ -67,7 +67,7 @@ A passionate self-taught Front-end Developer and Assistant Lecturer for Java pro
 
 ![AmryLil Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=algolia&hide_border=true)
 
-![AmryLil Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmryLil&theme=algolia&show_icons=true&hide_border=true&layout=compact)
+
 
 
 </div>
