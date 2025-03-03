@@ -6,9 +6,9 @@
 
 <div align="center">
   
-A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. <br> Currently honing skills in Web Development through self-study. Open to internship or job opportunities. <br> Explore my <a href="https://sufardimadoa.vercel.app"> Personal Website</a> and view my <a href="https://read.cv/sufardimadoa"> Resume</a> 
+A passionate self-taught Front-end Developer and Assistant Lecturer for Java programming. <br> Currently honing skills in Web Development through self-study. Open to internship or job opportunities. <br> Explore my <a href="https://lil-portofolio.vercel.app/"> Personal Website</a> and view my <a href="https://ulil-cv.my.canva.site/"> Resume</a> 
 <div align="center">
-<a href="https://www.linkedin.com/in/sufardi-madoa-116a56295" target="_blank">
+<a href="https://www.linkedin.com/in/ulil-amry-al-qadri-363a841b3" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  -%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </div>
