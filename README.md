@@ -26,7 +26,7 @@
 
 <!-- About me with code section -->
 <div align="center">
-  <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/coding-workshop-concept-illustration_114360-8192.jpg?uid=R117965260&ga=GA1.1.521895176.1747324526&semt=ais_hybrid&w=740">
+
 
 ```javascript
 const ulilamry = {
@@ -71,6 +71,13 @@ const ulilamry = {
 <p align="center">
   <a href="https://github.com/AmryLil">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmryLil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+ 
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AmryLil">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=tokyonight&hide_border=true" alt="AmryLil's streak"/>
     
   </a>
