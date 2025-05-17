@@ -25,7 +25,7 @@
 </h1>
 
 <!-- About me with code section -->
-<div align="center">
+<div align="center" text="center">
 
 
 ```javascript
