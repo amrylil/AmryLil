@@ -1,64 +1,126 @@
-<h1 align="center">Hi there, I'm Ulil Amry <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<!-- Header with animated banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ulil%20Amry&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</div>
+
+<!-- Social badges section -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ulil-amry-al-qadri-363a841b3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://lil-portofolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
+  <a href="https://ulil-cv.my.canva.site/">
+    <img src="https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AmryLil&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
+
+<!-- Animated typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Backend+Developer;Clean+Architecture+Enthusiast;Creative+Problem+Solver;Tech+Innovation+Lover" alt="Typing SVG" />
+  </a>
+</h1>
+
+<!-- About me with code section -->
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+```javascript
+const ulilamry = {
+  location: "Makassar, Indonesia",
+  education: "Computer Science @ Universitas Dipa Makassar",
+  role: "Backend Developer",
+  
+  passion: [
+    "Building scalable applications",
+    "Clean architecture",
+    "Open source contribution",
+    "Continuous learning"
+  ],
+  
+  currentFocus: "Mastering Golang microservices"
+};
+```
+</div>
+
+<!-- Tech Stack Section with animated card -->
+<div align="center">
+  <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack</h2>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=laravel,php,go,python,mysql,git" />
+
+  <!-- Specialized Tech -->
+  <h3>Specialized Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Filament-f59e0b?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
+    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+</div>
+
+<!-- GitHub Stats with animated cards -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0B97FF&size=22&center=true&vCenter=true&width=600&height=80&lines=Backend+Developer;Computer+Science+Student;Problem+Solver;Clean+Architecture+Enthusiast;Always+Learning+New+Technologies" />
+  <a href="https://github.com/AmryLil">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmryLil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmryLil&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
-<div align="center">
-  <p>
-    Passionate Backend Developer and CS student at Universitas Dipa Makassar. Focused on building scalable web applications with clean architecture principles. Currently expanding my skills through hands-on projects and professional experience.
-  </p>
-  <p>
-    <a href="https://lil-portofolio.vercel.app/" target="_blank">📌 Portfolio</a> • 
-    <a href="https://ulil-cv.my.canva.site/" target="_blank">📄 Resume</a>
-  </p>
-  
-  <a href="https://www.linkedin.com/in/ulil-amry-al-qadri-363a841b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=tokyonight&hide_border=true" alt="AmryLil's streak"/>
+</p>
+
+<!-- Current Projects -->
+<h2 align="center">🚀 Current Projects</h2>
 
 <div align="center">
-  <h2>💻 Tech Stack</h2>
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![Filament](https://img.shields.io/badge/Filament-f59e0b?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
-  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Microservice Architecture</h3>
+        <p align="center">
+          Building robust backend systems with Golang, Gin and gRPC
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Laravel Admin Dashboard</h3>
+        <p align="center">
+          Developing admin interfaces with Laravel, Filament and Alpine.js
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Next.js Frontend</h3>
+        <p align="center">
+          Creating responsive frontends with Next.js and Tailwind CSS
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Open Source Contributions</h3>
+        <p align="center">
+          Contributing to open-source projects and community initiatives
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Quote Section -->
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=AmryLil&show_icons=true&theme=tokyonight&hide_border=true" alt="Ulil's GitHub Stats" />
-  
-  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
+<!-- Footer -->
 <div align="center">
-  <h2>🚀 Current Focus</h2>
-  
-  - Building robust backend systems with Golang and Gin
-  - Developing full-stack applications with Laravel and React
-  - Exploring clean architecture and best practices
-  - Contributing to open-source projects
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
-
-<div align="center">
-  <p>💡 <i>"Clean code always looks like it was written by someone who cares."</i></p>
-</div>
-
-![](https://komarev.com/ghpvc/?username=AmryLil&style=flat-square&color=blue)
