@@ -35,13 +35,12 @@ const ulilamry = {
   role: "Backend Developer",
   
   passion: [
-    "Building scalable applications",
     "Clean architecture",
-    "Open source contribution",
+    "Freelance Web Developer",
     "Continuous learning"
   ],
   
-  currentFocus: "Mastering Golang microservices"
+  currentFocus: "Full-Stack Developer"
 };
 ```
 </div>
@@ -53,26 +52,47 @@ const ulilamry = {
 
 <!-- Tech stack icons in a cleaner layout -->
 <div align="center">
-  <!-- Frontend -->
-  <h3>Frontend</h3>
+  <!-- Programming Languages -->
+  <h3>💻 Programming Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,go,php,python,html,css" />
   </p>
   
-  <!-- Backend -->
-  <h3>Backend</h3>
+  <!-- Frontend Technologies -->
+  <h3>🎨 Frontend Technologies</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=go,php,laravel,python,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery" />
+  </p>
+  
+  <!-- Backend Technologies -->
+  <h3>⚙️ Backend Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,gin" />
   </p>
 
-  <!-- Tools -->
-  <h3>Tools & Frameworks</h3>
+  <!-- Database Technologies -->
+  <h3>🗄️ Database Technologies</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+  </p>
+
+  <!-- DevOps & Tools -->
+  <h3>🛠️ DevOps & Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,linux" />
+  </p>
+
+  <!-- Additional Frameworks & Libraries -->
+  <h3>📚 Additional Frameworks & Libraries</h3>
   <p>
     <img src="https://img.shields.io/badge/Filament-f59e0b?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
     <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   </p>
 </div>
 
@@ -89,42 +109,6 @@ const ulilamry = {
   <a href="https://github.com/AmryLil">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmryLil&theme=tokyonight&hide_border=true" alt="AmryLil's streak"/>
   </a>
-</div>
-
-<!-- Current Projects in a cleaner layout -->
-<h2 align="center">🚀 Current Projects</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Microservice Architecture</h3>
-        <p align="center">
-          Building robust backend systems with Golang, Gin and gRPC
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Laravel Admin Dashboard</h3>
-        <p align="center">
-          Developing admin interfaces with Laravel, Filament and Alpine.js
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Next.js Frontend</h3>
-        <p align="center">
-          Creating responsive frontends with Next.js and Tailwind CSS
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Open Source Contributions</h3>
-        <p align="center">
-          Contributing to open-source projects and community initiatives
-        </p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- Quote Section -->
