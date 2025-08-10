@@ -58,26 +58,19 @@ const ulilamry = {
     <img src="https://skillicons.dev/icons?i=js,ts,go,php,python,html,css" />
   </p>
   
-  <!-- Frontend Technologies -->
-  <h3>🎨 Frontend Technologies</h3>
+  <h3🛠️ Tools & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
   </p>
   
-  <!-- Backend Technologies -->
-  <h3>⚙️ Backend Technologies</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
   </p>
 
-  <!-- Database Technologies -->
-  <h3>🗄️ Database Technologies</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </p>
 
-  <!-- Tools & Frameworks -->
-  <h3>🛠️ Tools & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=docker,git" />
   </p>
