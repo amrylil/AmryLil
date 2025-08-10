@@ -58,7 +58,7 @@ const ulilamry = {
     <img src="https://skillicons.dev/icons?i=js,ts,go,php,python,html,css" />
   </p>
   
-  <h3🛠️ Tools & Frameworks</h3>
+  <h3>🛠️ Tools & Frameworks</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,mongodb,mysql,postgresql,docker,git" />
   </p>
