@@ -60,19 +60,7 @@ const ulilamry = {
   
   <h3🛠️ Tools & Frameworks</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  </p>
-  
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
-  </p>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </p>
-
-  <p>
-    <img src="https://skillicons.dev/icons?i=docker,git" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel,mongodb,mysql,postgresql,docker,git" />
   </p>
   <p>
     <img src="https://img.shields.io/badge/Filament-f59e0b?style=for-the-badge&logo=laravel&logoColor=white" />
